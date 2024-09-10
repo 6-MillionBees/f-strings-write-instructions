@@ -17,7 +17,7 @@
 
 1. Decide what you want to write, in this case I want to display the function len() in a sentence.
 ```python
-# I'm gonna write some code
+len('something')
 ```
 2. Define your function and (optional) assign it to a variable.
 ```python
