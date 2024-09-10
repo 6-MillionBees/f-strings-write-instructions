@@ -15,38 +15,37 @@
 ---
 ### How to Build an f-String in Python  
 
-1. Step 1...
+1. Step 1 Decide what you want to write, in this case I want to display the function len() in a sentence
 ```python
-# Add code for this step between the triple backticks
-# Do not delete the word python inside the backticks
+# I'm gonna write some code
 ```
-2. Step 2...
+2. Step 2 Define your function and (optional) assign it to a variable
 ```python
-# Add code for this step between the triple backticks
-# Do not delete the word python inside the backticks
+variable = len('something')
 ```
-3. Step 3...
+3. Step 3 Create a print function that includes your sentence
 ```python
-# Add code for this step between the triple backticks
-# Do not delete the word python inside the backticks
+variable = len('something')
+
+print('the word something has __ characters')
 ```
-4. Step 4...
+4. Step 4 Inside the brackets of the print function, but before the string put an f (this allows you to make it an f-string)
 ```python
-# Add code for this step between the triple backticks
-# Do not delete the word python inside the backticks
+variable = len('something')
+
+print(f'the word something has __ characters')
 ```
-5. Step 5...
+5. Step 5 Inside the string, at the desired spot put your variable incased in curly brackets
 ```python
-# Add code for this step between the triple backticks
-# Do not delete the word python inside the backticks
+variable = len('something')
+
+print(f'the word something has {variable} characters')
 ```
-6. Step 6...
+6. Step 6 Debug it! You should always debug everything.
 ```python
-# Add code for this step between the triple backticks
-# Do not delete the word python inside the backticks
-```
-7. Step 7...
-```python
-# Add code for this step between the triple backticks
-# Do not delete the word python inside the backticks
+variable = len('something')
+
+print(f'the word something has {variable} characters')
+
+# the output should say "the word something has 9 characters" in this example
 ```
