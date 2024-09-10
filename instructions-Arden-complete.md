@@ -29,7 +29,7 @@ variable = len('something')
 
 print('the word something has __ characters')
 ```
-4. Inside the brackets of the print function, but before the string put an f (this allows you to make it an f-string)
+4. Inside the brackets of the print function, but before the string put an f (this is what makes it an **f**-string)
 ```python
 variable = len('something')
 
