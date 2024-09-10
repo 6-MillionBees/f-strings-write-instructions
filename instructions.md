@@ -13,9 +13,9 @@
 > `print( )` function, variable, assignment operator, value, lowercase f, single quotation marks, double quotation marks, curly braces, placeholder
 
 ---
-### How to Build an f-String in Python  
+### How to Build an f-String in Python 
 
-1. Step 1 Decide what you want to write, in this case I want to display the function len() in a sentence
+1. Decide what you want to write, in this case I want to display the function len() in a sentence
 ```python
 # I'm gonna write some code
 ```
