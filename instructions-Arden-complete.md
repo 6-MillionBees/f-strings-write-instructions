@@ -35,7 +35,7 @@ variable = len('something')
 
 print(f'the word something has __ characters')
 ```
-5. Inside the string, at the desired spot, put your variable incased in curly brackets.
+5. Inside the string, at the desired spot, put your variable incased in curly braces.
 ```python
 variable = len('something')
 
