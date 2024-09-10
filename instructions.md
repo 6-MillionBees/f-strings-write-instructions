@@ -41,7 +41,7 @@ variable = len('something')
 
 print(f'the word something has {variable} characters')
 ```
-6. Debug it! You should always debug everything always.
+6. Test it out! I can't see the exact problem you're having but most if not all of the problems you could have can be solved by just double checking.
 ```python
 variable = len('something')
 
