@@ -15,33 +15,33 @@
 ---
 ### How to Build an f-String in Python 
 
-1. Decide what you want to write, in this case I want to display the function len() in a sentence
+1. Decide what you want to write, in this case I want to display the function len() in a sentence.
 ```python
 # I'm gonna write some code
 ```
-2. Step 2 Define your function and (optional) assign it to a variable
+2. Define your function and (optional) assign it to a variable.
 ```python
 variable = len('something')
 ```
-3. Step 3 Create a print function that includes your sentence
+3. Create a print function that includes your sentence.
 ```python
 variable = len('something')
 
 print('the word something has __ characters')
 ```
-4. Step 4 Inside the brackets of the print function, but before the string put an f (this allows you to make it an f-string)
+4. Inside the brackets of the print function, but before the string put an f (this allows you to make it an f-string)
 ```python
 variable = len('something')
 
 print(f'the word something has __ characters')
 ```
-5. Step 5 Inside the string, at the desired spot put your variable incased in curly brackets
+5. Inside the string, at the desired spot put your variable incased in curly brackets.
 ```python
 variable = len('something')
 
 print(f'the word something has {variable} characters')
 ```
-6. Step 6 Debug it! You should always debug everything.
+6. Debug it! You should always debug everything always.
 ```python
 variable = len('something')
 
